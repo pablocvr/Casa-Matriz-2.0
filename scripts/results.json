@@ -1,0 +1,850 @@
+{
+  "totalEnviados": 229,
+  "totalPresentes": 124,
+  "totalFaltantesAlimentos": 59,
+  "totalFaltantesOtros": 46,
+  "missingAlimentos": [
+    {
+      "producto": "Royal",
+      "variante": "Hypoallergenic small dog 2 kgs",
+      "nombre": "Royal - Hypoallergenic small dog 2 kgs",
+      "precioUnitarioNeto": 21849,
+      "precioBrutoUnitario": 26000,
+      "costoNetoUnitario": 14505
+    },
+    {
+      "producto": "Proplan gato",
+      "variante": "Kitten 1 kgs",
+      "nombre": "Proplan gato - Kitten 1 kgs",
+      "precioUnitarioNeto": 9244,
+      "precioBrutoUnitario": 11000,
+      "costoNetoUnitario": 6523
+    },
+    {
+      "producto": "Proplan gato",
+      "variante": "Urinary 7,5 kgs",
+      "nombre": "Proplan gato - Urinary 7,5 kgs",
+      "precioUnitarioNeto": 45378,
+      "precioBrutoUnitario": 54000,
+      "costoNetoUnitario": 31571
+    },
+    {
+      "producto": "Proplan gato",
+      "variante": "Urinary 3 kgs",
+      "nombre": "Proplan gato - Urinary 3 kgs",
+      "precioUnitarioNeto": 23529,
+      "precioBrutoUnitario": 28000,
+      "costoNetoUnitario": 16559
+    },
+    {
+      "producto": "Royal",
+      "variante": "Renal gato 2 kgs",
+      "nombre": "Royal - Renal gato 2 kgs",
+      "precioUnitarioNeto": 22008,
+      "precioBrutoUnitario": 26190,
+      "costoNetoUnitario": 15962
+    },
+    {
+      "producto": "Senior Neutered dog",
+      "variante": "3 kgs",
+      "nombre": "Senior Neutered dog - 3 kgs",
+      "precioUnitarioNeto": 26050,
+      "precioBrutoUnitario": 31000,
+      "costoNetoUnitario": 15206
+    },
+    {
+      "producto": "Royal",
+      "variante": "Urinary care 1,5 kgs",
+      "nombre": "Royal - Urinary care 1,5 kgs",
+      "precioUnitarioNeto": 16387,
+      "precioBrutoUnitario": 19500,
+      "costoNetoUnitario": 11137
+    },
+    {
+      "producto": "Royal",
+      "variante": "Lata gastrointestinal perro",
+      "nombre": "Royal - Lata gastrointestinal perro",
+      "precioUnitarioNeto": 3361,
+      "precioBrutoUnitario": 4000,
+      "costoNetoUnitario": 2387
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Reduce calorias  raza mediana a grande12 kgs",
+      "nombre": "Proplan perro - Reduce calorias  raza mediana a grande12 kgs",
+      "precioUnitarioNeto": 47899,
+      "precioBrutoUnitario": 57000,
+      "costoNetoUnitario": 32296
+    },
+    {
+      "producto": "Royal perro",
+      "variante": "Hepatic 10,1",
+      "nombre": "Royal perro - Hepatic 10,1",
+      "precioUnitarioNeto": 68908,
+      "precioBrutoUnitario": 82000,
+      "costoNetoUnitario": 48813
+    },
+    {
+      "producto": "Proplan Pouch",
+      "variante": "Gato Adulto pollo",
+      "nombre": "Proplan Pouch - Gato Adulto pollo",
+      "precioUnitarioNeto": 1345,
+      "precioBrutoUnitario": 1600,
+      "costoNetoUnitario": 927
+    },
+    {
+      "producto": "Proplan Pouch",
+      "variante": "Gato adulto salmon",
+      "nombre": "Proplan Pouch - Gato adulto salmon",
+      "precioUnitarioNeto": 1345,
+      "precioBrutoUnitario": 1600,
+      "costoNetoUnitario": 980
+    },
+    {
+      "producto": "Kidney support perro",
+      "variante": "3 kgs",
+      "nombre": "Kidney support perro - 3 kgs",
+      "precioUnitarioNeto": 29412,
+      "precioBrutoUnitario": 35000,
+      "costoNetoUnitario": 18765
+    },
+    {
+      "producto": "Royal",
+      "variante": "Lata Recovery",
+      "nombre": "Royal - Lata Recovery",
+      "precioUnitarioNeto": 3193,
+      "precioBrutoUnitario": 3800,
+      "costoNetoUnitario": 2195
+    },
+    {
+      "producto": "Royal",
+      "variante": "Hypoallergenic gato 1,5 kgs",
+      "nombre": "Royal - Hypoallergenic gato 1,5 kgs",
+      "precioUnitarioNeto": 22269,
+      "precioBrutoUnitario": 26500,
+      "costoNetoUnitario": 12207
+    },
+    {
+      "producto": "Royal pouch",
+      "variante": "Sensory Taste",
+      "nombre": "Royal pouch - Sensory Taste",
+      "precioUnitarioNeto": 2185,
+      "precioBrutoUnitario": 2600,
+      "costoNetoUnitario": 1204
+    },
+    {
+      "producto": "Mazuri",
+      "variante": "hedgehog 500 grs",
+      "nombre": "Mazuri - hedgehog 500 grs",
+      "precioUnitarioNeto": 6303,
+      "precioBrutoUnitario": 7500,
+      "costoNetoUnitario": 4609
+    },
+    {
+      "producto": "Royal perro",
+      "variante": "Puppy Mini 3 kgs",
+      "nombre": "Royal perro - Puppy Mini 3 kgs",
+      "precioUnitarioNeto": 22689,
+      "precioBrutoUnitario": 27000,
+      "costoNetoUnitario": 14393
+    },
+    {
+      "producto": "Royal",
+      "variante": "Indoor +7   1,5kgs",
+      "nombre": "Royal - Indoor +7   1,5kgs",
+      "precioUnitarioNeto": 16807,
+      "precioBrutoUnitario": 20000,
+      "costoNetoUnitario": 10587
+    },
+    {
+      "producto": "Kidney support perro",
+      "variante": "12 kgs",
+      "nombre": "Kidney support perro - 12 kgs",
+      "precioUnitarioNeto": 73950,
+      "precioBrutoUnitario": 88000,
+      "costoNetoUnitario": 47791
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Puppy razas pequeñas 3 kgs",
+      "nombre": "Proplan perro - Puppy razas pequeñas 3 kgs",
+      "precioUnitarioNeto": 21008,
+      "precioBrutoUnitario": 25000,
+      "costoNetoUnitario": 13377
+    },
+    {
+      "producto": "Royal",
+      "variante": "Mini Adult 2,5 kgs",
+      "nombre": "Royal - Mini Adult 2,5 kgs",
+      "precioUnitarioNeto": 21008,
+      "precioBrutoUnitario": 25000,
+      "costoNetoUnitario": 13357
+    },
+    {
+      "producto": "Royal gato",
+      "variante": "Castrado 4 kgs",
+      "nombre": "Royal gato - Castrado 4 kgs",
+      "precioUnitarioNeto": 28571,
+      "precioBrutoUnitario": 34000,
+      "costoNetoUnitario": 21090
+    },
+    {
+      "producto": "Royal pouch",
+      "variante": "Sensory Smell",
+      "nombre": "Royal pouch - Sensory Smell",
+      "precioUnitarioNeto": 2185,
+      "precioBrutoUnitario": 2600,
+      "costoNetoUnitario": 1204
+    },
+    {
+      "producto": "Adult cat salmon",
+      "variante": "7 kg",
+      "nombre": "Adult cat salmon - 7 kg",
+      "precioUnitarioNeto": 56303,
+      "precioBrutoUnitario": 67000,
+      "costoNetoUnitario": 38223
+    },
+    {
+      "producto": "Hypoallergy perro",
+      "variante": "12 kgs",
+      "nombre": "Hypoallergy perro - 12 kgs",
+      "precioUnitarioNeto": 83193,
+      "precioBrutoUnitario": 99000,
+      "costoNetoUnitario": 51858
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Puppy raza mediana 1 kg",
+      "nombre": "Proplan perro - Puppy raza mediana 1 kg",
+      "precioUnitarioNeto": 9244,
+      "precioBrutoUnitario": 11000,
+      "costoNetoUnitario": 1
+    },
+    {
+      "producto": "Royal",
+      "variante": "Urinary care 7,5 kgs",
+      "nombre": "Royal - Urinary care 7,5 kgs",
+      "precioUnitarioNeto": 56303,
+      "precioBrutoUnitario": 67000,
+      "costoNetoUnitario": 42905
+    },
+    {
+      "producto": "Royal",
+      "variante": "Yorkshire 2,5 kgs",
+      "nombre": "Royal - Yorkshire 2,5 kgs",
+      "precioUnitarioNeto": 21008,
+      "precioBrutoUnitario": 25000,
+      "costoNetoUnitario": 14276
+    },
+    {
+      "producto": "Kong",
+      "variante": "Kitty",
+      "nombre": "Kong - Kitty",
+      "precioUnitarioNeto": 4622,
+      "precioBrutoUnitario": 5500,
+      "costoNetoUnitario": 2730
+    },
+    {
+      "producto": "Baby dog large-medium",
+      "variante": "3 kgs",
+      "nombre": "Baby dog large-medium - 3 kgs",
+      "precioUnitarioNeto": 25210,
+      "precioBrutoUnitario": 30000,
+      "costoNetoUnitario": 13067
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Puppy razas medianas 3 kgs",
+      "nombre": "Proplan perro - Puppy razas medianas 3 kgs",
+      "precioUnitarioNeto": 20168,
+      "precioBrutoUnitario": 24000,
+      "costoNetoUnitario": 12936
+    },
+    {
+      "producto": "Dissolution prevention dog",
+      "variante": "12 kgs",
+      "nombre": "Dissolution prevention dog - 12 kgs",
+      "precioUnitarioNeto": 69748,
+      "precioBrutoUnitario": 83000,
+      "costoNetoUnitario": 46820
+    },
+    {
+      "producto": "Royal",
+      "variante": "Castrado 1,5 kgs",
+      "nombre": "Royal - Castrado 1,5 kgs",
+      "precioUnitarioNeto": 15966,
+      "precioBrutoUnitario": 19000,
+      "costoNetoUnitario": 10179
+    },
+    {
+      "producto": "Adulto dog small-toy",
+      "variante": "3 kgs",
+      "nombre": "Adulto dog small-toy - 3 kgs",
+      "precioUnitarioNeto": 22689,
+      "precioBrutoUnitario": 27000,
+      "costoNetoUnitario": 15437
+    },
+    {
+      "producto": "Kidney & Joint",
+      "variante": "N°2 de 1,5 kg",
+      "nombre": "Kidney & Joint - N°2 de 1,5 kg",
+      "precioUnitarioNeto": 28571,
+      "precioBrutoUnitario": 34000,
+      "costoNetoUnitario": 14791
+    },
+    {
+      "producto": "Mazuri",
+      "variante": "Rabbit 2,5 kgs",
+      "nombre": "Mazuri - Rabbit 2,5 kgs",
+      "precioUnitarioNeto": 20168,
+      "precioBrutoUnitario": 24000,
+      "costoNetoUnitario": 16421
+    },
+    {
+      "producto": "Prebióticos",
+      "variante": "Articular perro",
+      "nombre": "Prebióticos - Articular perro",
+      "precioUnitarioNeto": 1996,
+      "precioBrutoUnitario": 2375,
+      "costoNetoUnitario": 1386
+    },
+    {
+      "producto": "Bedding",
+      "variante": "4lts",
+      "nombre": "Bedding - 4lts",
+      "precioUnitarioNeto": 5042,
+      "precioBrutoUnitario": 6000,
+      "costoNetoUnitario": 3209
+    },
+    {
+      "producto": "Senior cat",
+      "variante": "3kgs",
+      "nombre": "Senior cat - 3kgs",
+      "precioUnitarioNeto": 33613,
+      "precioBrutoUnitario": 40000,
+      "costoNetoUnitario": 19874
+    },
+    {
+      "producto": "Adult cat salmon",
+      "variante": "1,5 kgs",
+      "nombre": "Adult cat salmon - 1,5 kgs",
+      "precioUnitarioNeto": 20168,
+      "precioBrutoUnitario": 24000,
+      "costoNetoUnitario": 13034
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Reduce calorias razas pequeñas 3 kgs",
+      "nombre": "Proplan perro - Reduce calorias razas pequeñas 3 kgs",
+      "precioUnitarioNeto": 20168,
+      "precioBrutoUnitario": 24000,
+      "costoNetoUnitario": 14339
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Adulto raza grande 12 kgs",
+      "nombre": "Proplan perro - Adulto raza grande 12 kgs",
+      "precioUnitarioNeto": 47059,
+      "precioBrutoUnitario": 56000,
+      "costoNetoUnitario": 32296
+    },
+    {
+      "producto": "Latas Belcando",
+      "variante": "Pollo con pato y zanahoria 800 grs",
+      "nombre": "Latas Belcando - Pollo con pato y zanahoria 800 grs",
+      "precioUnitarioNeto": 6723,
+      "precioBrutoUnitario": 8000,
+      "costoNetoUnitario": 4295
+    },
+    {
+      "producto": "Royal",
+      "variante": "Indoor 1,5 kgs",
+      "nombre": "Royal - Indoor 1,5 kgs",
+      "precioUnitarioNeto": 16807,
+      "precioBrutoUnitario": 20000,
+      "costoNetoUnitario": 10179
+    },
+    {
+      "producto": "Adult dog large-medium",
+      "variante": "12kgs",
+      "nombre": "Adult dog large-medium - 12kgs",
+      "precioUnitarioNeto": 61345,
+      "precioBrutoUnitario": 73000,
+      "costoNetoUnitario": 41781
+    },
+    {
+      "producto": "Weight loss & control",
+      "variante": "1,5 kgs",
+      "nombre": "Weight loss & control - 1,5 kgs",
+      "precioUnitarioNeto": 22689,
+      "precioBrutoUnitario": 27000,
+      "costoNetoUnitario": 15114
+    },
+    {
+      "producto": "Proplan gato",
+      "variante": "Adulto 3 kgs",
+      "nombre": "Proplan gato - Adulto 3 kgs",
+      "precioUnitarioNeto": 21849,
+      "precioBrutoUnitario": 26000,
+      "costoNetoUnitario": 15007
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "sensitive skin salmon 12 kgs",
+      "nombre": "Proplan perro - sensitive skin salmon 12 kgs",
+      "precioUnitarioNeto": 48739,
+      "precioBrutoUnitario": 58000,
+      "costoNetoUnitario": 33539
+    },
+    {
+      "producto": "Royal",
+      "variante": "Hypoalergenic 10,1 kgs",
+      "nombre": "Royal - Hypoalergenic 10,1 kgs",
+      "precioUnitarioNeto": 73950,
+      "precioBrutoUnitario": 88000,
+      "costoNetoUnitario": 55687
+    },
+    {
+      "producto": "Adulto dog small-toy",
+      "variante": "7 kgs",
+      "nombre": "Adulto dog small-toy - 7 kgs",
+      "precioUnitarioNeto": 46218,
+      "precioBrutoUnitario": 55000,
+      "costoNetoUnitario": 27408
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Adulto raza mediana 12 kgs",
+      "nombre": "Proplan perro - Adulto raza mediana 12 kgs",
+      "precioUnitarioNeto": 47059,
+      "precioBrutoUnitario": 56000,
+      "costoNetoUnitario": 32296
+    },
+    {
+      "producto": "Royal perro",
+      "variante": "Dachshund 7.5 kgs",
+      "nombre": "Royal perro - Dachshund 7.5 kgs",
+      "precioUnitarioNeto": 47899,
+      "precioBrutoUnitario": 57000,
+      "costoNetoUnitario": 38585
+    },
+    {
+      "producto": "Adult Neutered",
+      "variante": "Small and toy 3 kgs",
+      "nombre": "Adult Neutered - Small and toy 3 kgs",
+      "precioUnitarioNeto": 24370,
+      "precioBrutoUnitario": 29000,
+      "costoNetoUnitario": 15344
+    },
+    {
+      "producto": "Bola giratoria 3 más 1",
+      "variante": "",
+      "nombre": "Bola giratoria 3 más 1",
+      "precioUnitarioNeto": 3361,
+      "precioBrutoUnitario": 4000,
+      "costoNetoUnitario": 1850
+    },
+    {
+      "producto": "Latas Belcando",
+      "variante": "Cordero 400",
+      "nombre": "Latas Belcando - Cordero 400",
+      "precioUnitarioNeto": 4622,
+      "precioBrutoUnitario": 5500,
+      "costoNetoUnitario": 3059
+    },
+    {
+      "producto": "Royal",
+      "variante": "Mini Adult 7,5 kgs",
+      "nombre": "Royal - Mini Adult 7,5 kgs",
+      "precioUnitarioNeto": 43697,
+      "precioBrutoUnitario": 52000,
+      "costoNetoUnitario": 34572
+    },
+    {
+      "producto": "Proplan gato",
+      "variante": "Sterilized 7,5 kgs",
+      "nombre": "Proplan gato - Sterilized 7,5 kgs",
+      "precioUnitarioNeto": 45378,
+      "precioBrutoUnitario": 54000,
+      "costoNetoUnitario": 31571
+    },
+    {
+      "producto": "Proplan perro",
+      "variante": "Sensitive skin razas medianas y grandes 3 kgs",
+      "nombre": "Proplan perro - Sensitive skin razas medianas y grandes 3 kgs",
+      "precioUnitarioNeto": 20168,
+      "precioBrutoUnitario": 24000,
+      "costoNetoUnitario": 13453
+    }
+  ],
+  "missingOtros": [
+    {
+      "producto": "Bandana kulcan",
+      "variante": "",
+      "nombre": "Bandana kulcan",
+      "precioUnitarioNeto": 5042,
+      "precioBrutoUnitario": 6000,
+      "costoNetoUnitario": 3353
+    },
+    {
+      "producto": "Bolsas para perros",
+      "variante": "Klint",
+      "nombre": "Bolsas para perros - Klint",
+      "precioUnitarioNeto": 2941,
+      "precioBrutoUnitario": 3500,
+      "costoNetoUnitario": 2153
+    },
+    {
+      "producto": "Naturale",
+      "variante": "Ballica",
+      "nombre": "Naturale - Ballica",
+      "precioUnitarioNeto": 3782,
+      "precioBrutoUnitario": 4500,
+      "costoNetoUnitario": 1660
+    },
+    {
+      "producto": "Naturale",
+      "variante": "Ballica/topinambur",
+      "nombre": "Naturale - Ballica/topinambur",
+      "precioUnitarioNeto": 4622,
+      "precioBrutoUnitario": 5500,
+      "costoNetoUnitario": 2550
+    },
+    {
+      "producto": "Timothy snack",
+      "variante": "Palitos de hierba timothy",
+      "nombre": "Timothy snack - Palitos de hierba timothy",
+      "precioUnitarioNeto": 3361,
+      "precioBrutoUnitario": 4000,
+      "costoNetoUnitario": 1950
+    },
+    {
+      "producto": "Timothy snack",
+      "variante": "Palitos de hierba de zanahoria",
+      "nombre": "Timothy snack - Palitos de hierba de zanahoria",
+      "precioUnitarioNeto": 4202,
+      "precioBrutoUnitario": 5000,
+      "costoNetoUnitario": 2490
+    },
+    {
+      "producto": "Simparica Trio",
+      "variante": "20 a 40 kgs",
+      "nombre": "Simparica Trio - 20 a 40 kgs",
+      "precioUnitarioNeto": 16387,
+      "precioBrutoUnitario": 19500,
+      "costoNetoUnitario": 10485
+    },
+    {
+      "producto": "Naturale",
+      "variante": "Alfalfa",
+      "nombre": "Naturale - Alfalfa",
+      "precioUnitarioNeto": 3668,
+      "precioBrutoUnitario": 4365,
+      "costoNetoUnitario": 1660
+    },
+    {
+      "producto": "Timothy",
+      "variante": "Stick",
+      "nombre": "Timothy - Stick",
+      "precioUnitarioNeto": 2101,
+      "precioBrutoUnitario": 2500,
+      "costoNetoUnitario": 1090
+    },
+    {
+      "producto": "Natural dogs",
+      "variante": "Chicken",
+      "nombre": "Natural dogs - Chicken",
+      "precioUnitarioNeto": 3193,
+      "precioBrutoUnitario": 3800,
+      "costoNetoUnitario": 2145
+    },
+    {
+      "producto": "Previcox",
+      "variante": "227 mg",
+      "nombre": "Previcox - 227 mg",
+      "precioUnitarioNeto": 24370,
+      "precioBrutoUnitario": 29000,
+      "costoNetoUnitario": 16030
+    },
+    {
+      "producto": "Varilla",
+      "variante": "figuras",
+      "nombre": "Varilla - figuras",
+      "precioUnitarioNeto": 2941,
+      "precioBrutoUnitario": 3500,
+      "costoNetoUnitario": 553
+    },
+    {
+      "producto": "Rascadores",
+      "variante": "curvo diseño flores",
+      "nombre": "Rascadores - curvo diseño flores",
+      "precioUnitarioNeto": 4622,
+      "precioBrutoUnitario": 5500,
+      "costoNetoUnitario": 1590
+    },
+    {
+      "producto": "Arena Sanitcat",
+      "variante": "7kgs",
+      "nombre": "Arena Sanitcat - 7kgs",
+      "precioUnitarioNeto": 8403,
+      "precioBrutoUnitario": 10000,
+      "costoNetoUnitario": 6144
+    },
+    {
+      "producto": "Litter",
+      "variante": "10lts",
+      "nombre": "Litter - 10lts",
+      "precioUnitarioNeto": 12605,
+      "precioBrutoUnitario": 15000,
+      "costoNetoUnitario": 9618
+    },
+    {
+      "producto": "Corta uñas Mastergroomer",
+      "variante": "gato",
+      "nombre": "Corta uñas Mastergroomer - gato",
+      "precioUnitarioNeto": 5462,
+      "precioBrutoUnitario": 6500,
+      "costoNetoUnitario": 3289
+    },
+    {
+      "producto": "Collar isabelino",
+      "variante": "Perro 30 cms",
+      "nombre": "Collar isabelino - Perro 30 cms",
+      "precioUnitarioNeto": 10504,
+      "precioBrutoUnitario": 12500,
+      "costoNetoUnitario": 6890
+    },
+    {
+      "producto": "Timothy snack",
+      "variante": "Pastel de dientes de verduras y frutas",
+      "nombre": "Timothy snack - Pastel de dientes de verduras y frutas",
+      "precioUnitarioNeto": 5882,
+      "precioBrutoUnitario": 7000,
+      "costoNetoUnitario": 3250
+    },
+    {
+      "producto": "Natural dogs",
+      "variante": "Beef",
+      "nombre": "Natural dogs - Beef",
+      "precioUnitarioNeto": 3193,
+      "precioBrutoUnitario": 3800,
+      "costoNetoUnitario": 2145
+    },
+    {
+      "producto": "Churu gato",
+      "variante": "Tuna Bonito",
+      "nombre": "Churu gato - Tuna Bonito",
+      "precioUnitarioNeto": 2353,
+      "precioBrutoUnitario": 2800,
+      "costoNetoUnitario": 1264
+    },
+    {
+      "producto": "Ehliquantel",
+      "variante": "",
+      "nombre": "Ehliquantel",
+      "precioUnitarioNeto": 1261,
+      "precioBrutoUnitario": 1500,
+      "costoNetoUnitario": 257
+    },
+    {
+      "producto": "Arenero gato XL con pala",
+      "variante": "",
+      "nombre": "Arenero gato XL con pala",
+      "precioUnitarioNeto": 16807,
+      "precioBrutoUnitario": 20000,
+      "costoNetoUnitario": 6500
+    },
+    {
+      "producto": "Bil Jac",
+      "variante": "Peanut Butter & banana flavor",
+      "nombre": "Bil Jac - Peanut Butter & banana flavor",
+      "precioUnitarioNeto": 3782,
+      "precioBrutoUnitario": 4500,
+      "costoNetoUnitario": 2232
+    },
+    {
+      "producto": "Churu gato",
+      "variante": "Pop Tuna",
+      "nombre": "Churu gato - Pop Tuna",
+      "precioUnitarioNeto": 2353,
+      "precioBrutoUnitario": 2800,
+      "costoNetoUnitario": 1666
+    },
+    {
+      "producto": "Timothy",
+      "variante": "bowl L",
+      "nombre": "Timothy - bowl L",
+      "precioUnitarioNeto": 4202,
+      "precioBrutoUnitario": 5000,
+      "costoNetoUnitario": 2250
+    },
+    {
+      "producto": "Nexgard Spectra",
+      "variante": "7,6 a 15 kgs",
+      "nombre": "Nexgard Spectra - 7,6 a 15 kgs",
+      "precioUnitarioNeto": 10504,
+      "precioBrutoUnitario": 12500,
+      "costoNetoUnitario": 6725
+    },
+    {
+      "producto": "Catnip",
+      "variante": "Hierba gatera",
+      "nombre": "Catnip - Hierba gatera",
+      "precioUnitarioNeto": 3782,
+      "precioBrutoUnitario": 4500,
+      "costoNetoUnitario": 2554
+    },
+    {
+      "producto": "Churu Juicy Bites",
+      "variante": "Shrimp-Seafood",
+      "nombre": "Churu Juicy Bites - Shrimp-Seafood",
+      "precioUnitarioNeto": 2521,
+      "precioBrutoUnitario": 3000,
+      "costoNetoUnitario": 1633
+    },
+    {
+      "producto": "Bil Jac",
+      "variante": "Chicken liver",
+      "nombre": "Bil Jac - Chicken liver",
+      "precioUnitarioNeto": 3361,
+      "precioBrutoUnitario": 4000,
+      "costoNetoUnitario": 1808
+    },
+    {
+      "producto": "Timothy",
+      "variante": "Shapes",
+      "nombre": "Timothy - Shapes",
+      "precioUnitarioNeto": 2101,
+      "precioBrutoUnitario": 2500,
+      "costoNetoUnitario": 980
+    },
+    {
+      "producto": "Churu gato",
+      "variante": "Pop Chicken",
+      "nombre": "Churu gato - Pop Chicken",
+      "precioUnitarioNeto": 2353,
+      "precioBrutoUnitario": 2800,
+      "costoNetoUnitario": 1666
+    },
+    {
+      "producto": "Filtros  dispensador de agua",
+      "variante": "6 unidades",
+      "nombre": "Filtros  dispensador de agua - 6 unidades",
+      "precioUnitarioNeto": 7983,
+      "precioBrutoUnitario": 9500,
+      "costoNetoUnitario": 5874
+    },
+    {
+      "producto": "Nexgard Spectra",
+      "variante": "30,1 a 60 kgs",
+      "nombre": "Nexgard Spectra - 30,1 a 60 kgs",
+      "precioUnitarioNeto": 14706,
+      "precioBrutoUnitario": 17500,
+      "costoNetoUnitario": 9295
+    },
+    {
+      "producto": "Plato silicona",
+      "variante": "750 ml",
+      "nombre": "Plato silicona - 750 ml",
+      "precioUnitarioNeto": 7143,
+      "precioBrutoUnitario": 8500,
+      "costoNetoUnitario": 4111
+    },
+    {
+      "producto": "Drag Pharma",
+      "variante": "Condrovet",
+      "nombre": "Drag Pharma - Condrovet",
+      "precioUnitarioNeto": 20756,
+      "precioBrutoUnitario": 24700,
+      "costoNetoUnitario": 14116
+    },
+    {
+      "producto": "Toallas húmedas",
+      "variante": "Camon Talco",
+      "nombre": "Toallas húmedas - Camon Talco",
+      "precioUnitarioNeto": 4202,
+      "precioBrutoUnitario": 5000,
+      "costoNetoUnitario": 2969
+    },
+    {
+      "producto": "Revolution",
+      "variante": "0-2,5kgs",
+      "nombre": "Revolution - 0-2,5kgs",
+      "precioUnitarioNeto": 10924,
+      "precioBrutoUnitario": 13000,
+      "costoNetoUnitario": 6185
+    },
+    {
+      "producto": "Matipet",
+      "variante": "crema 50 gr",
+      "nombre": "Matipet - crema 50 gr",
+      "precioUnitarioNeto": 10924,
+      "precioBrutoUnitario": 13000,
+      "costoNetoUnitario": 7110
+    },
+    {
+      "producto": "Drag Pharma",
+      "variante": "Apeticat jarabe 100 ml",
+      "nombre": "Drag Pharma - Apeticat jarabe 100 ml",
+      "precioUnitarioNeto": 10084,
+      "precioBrutoUnitario": 12000,
+      "costoNetoUnitario": 6482
+    },
+    {
+      "producto": "Plato silicona",
+      "variante": "350ml",
+      "nombre": "Plato silicona - 350ml",
+      "precioUnitarioNeto": 6303,
+      "precioBrutoUnitario": 7500,
+      "costoNetoUnitario": 3046
+    },
+    {
+      "producto": "Drag Pharma",
+      "variante": "Hasyun",
+      "nombre": "Drag Pharma - Hasyun",
+      "precioUnitarioNeto": 7143,
+      "precioBrutoUnitario": 8500,
+      "costoNetoUnitario": 4732
+    },
+    {
+      "producto": "Qchefs",
+      "variante": "Granulado perro",
+      "nombre": "Qchefs - Granulado perro",
+      "precioUnitarioNeto": 7983,
+      "precioBrutoUnitario": 9500,
+      "costoNetoUnitario": 5599
+    },
+    {
+      "producto": "Arnes colores con luz",
+      "variante": "XL",
+      "nombre": "Arnes colores con luz - XL",
+      "precioUnitarioNeto": 25210,
+      "precioBrutoUnitario": 30000,
+      "costoNetoUnitario": 14450
+    },
+    {
+      "producto": "Comedero doble para gato",
+      "variante": "",
+      "nombre": "Comedero doble para gato",
+      "precioUnitarioNeto": 12605,
+      "precioBrutoUnitario": 15000,
+      "costoNetoUnitario": 6990
+    },
+    {
+      "producto": "Dispensador de agua",
+      "variante": "Celeste",
+      "nombre": "Dispensador de agua - Celeste",
+      "precioUnitarioNeto": 29412,
+      "precioBrutoUnitario": 35000,
+      "costoNetoUnitario": 16790
+    },
+    {
+      "producto": "Apoquel",
+      "variante": "5.4 mg",
+      "nombre": "Apoquel - 5.4 mg",
+      "precioUnitarioNeto": 35294,
+      "precioBrutoUnitario": 42000,
+      "costoNetoUnitario": 27530
+    }
+  ]
+}
